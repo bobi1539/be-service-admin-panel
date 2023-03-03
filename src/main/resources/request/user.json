@@ -1,0 +1,13 @@
+//Create User
+{
+  "name" :  "ucup",
+  "email" : "ucup@gmail.com",
+  "password" :  "ucup123",
+  "city" : "bandung",
+  "state" :  "jawa barat",
+  "country" : "indonesia",
+  "occupation" :  "programmer",
+  "phoneNumber" : "083180808080",
+  "transactions" :  "transaction1 ucup",
+  "role" : "ADMIN"
+}
